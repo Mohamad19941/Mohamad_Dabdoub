@@ -2,7 +2,7 @@
 ## About
 👋 Hi there! I'm Mohamad Dabdoub, a passionate Data Analyst with a background in both research and development engineering. My journey in data analysis began with collaborating on groundbreaking projects in structural health monitoring.
 ## Table of Contents
--[About](https://github.com/Mohamad19941/Dabdoub/blob/main/README.md#about)
+-[About](https://github.com/MohamadDabdoub/Mohamad_Dabdoub?tab=readme-ov-file#about)
 
 -[Portfolio Projects](https://github.com/Mohamad19941/Dabdoub/blob/main/README.md#portfolio-projects)
 
