@@ -4,17 +4,17 @@
 ## Table of Contents
 -[About](https://github.com/MohamadDabdoub/Mohamad_Dabdoub?tab=readme-ov-file#about)
 
--[Portfolio Projects](https://github.com/Mohamad19941/Dabdoub/blob/main/README.md#portfolio-projects)
+-[Portfolio Projects](https://github.com/MohamadDabdoub/Mohamad_Dabdoub/blob/main/README.md#portfolio-projects)
 
   - Python
   - SQL
   - Powerbi
 
--[Education](https://github.com/Mohamad19941/Dabdoub/blob/main/README.md#education)
+-[Education](https://github.com/MohamadDabdoub/Mohamad_Dabdoub/blob/main/README.md#education)
 
--[Certificates](https://github.com/Mohamad19941/Dabdoub/blob/main/README.md#education)
+-[Certificates](https://github.com/MohamadDabdoub/Mohamad_Dabdoub/blob/main/README.md#certificates)
 
--[Contacts](https://github.com/Mohamad19941/Dabdoub/blob/main/README.md#education)
+-[Contacts](https://github.com/MohamadDabdoub/Mohamad_Dabdoub/blob/main/README.md#contacts)
 
 ## Portfolio Projects
 
