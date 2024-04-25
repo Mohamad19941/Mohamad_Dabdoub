@@ -34,11 +34,11 @@ Bachelor of Science in Civil Engineering
 ## Certificates
 Crash Course on Python - Coursera
 
-Machine Leaning - Coursera
-
 Machine Learning using Python - Coursera
 
 Advanced Recommender System - Coursera
+
+Building a Recommender System in Python
 
 Bayesian Optimization Project - Coursera
 
