@@ -32,6 +32,15 @@ Bachelor of Science in Civil Engineering
 
 2013-2017
 ## Certificates
+Crash Course on Python - Coursera
+
+Machine Leaning - Coursera
+
+Machine Learning using Python - Coursera
+
+Advanced Recommender System - Coursera
+
+Bayesian Optimization Project - Coursera
 
 ## Contacts
 LinkedIn: (https://www.linkedin.com/in/mohamad-dabdoub-93a1a0195/)
